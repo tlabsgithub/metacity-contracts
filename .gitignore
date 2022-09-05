@@ -1,0 +1,13 @@
+*/.env
+node_modules
+
+.env
+
+.DS_Store
+artifacts
+cache
+contracts-todo
+typechain-types
+yarn-error.log
+yarn.lock
+
